@@ -1,4 +1,6 @@
-# My 34
+# Project 3.
+# Completed on August 8th 2022 at 11:45AM.
+
 import random
 
 randomInts = []
